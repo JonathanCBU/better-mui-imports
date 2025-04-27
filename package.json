@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "better-mui-imports.helloWorld",
-        "title": "Hello World"
+        "command": "better-mui-imports.importFixes",
+        "title": "Import Fixes"
       }
     ]
   },
